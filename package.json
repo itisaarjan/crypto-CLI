@@ -1,0 +1,12 @@
+{
+  "name": "cryptocli",
+  "version": "1.0.0",
+  "description": "CLI for showing daily crypto updates",
+  "main": "index.js",
+  "bin":
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjan Subedi",
+  "license": "MIT"
+}
